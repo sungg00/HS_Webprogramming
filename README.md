@@ -47,4 +47,4 @@ webserver2(13).js
 14
 
 app1.js ~app9.js
-log14-1.html~log14-3.html - app을 실행하기 위해 필요한 파일
+log14-1.html ~ log14-3.html - app을 실행하기 위해 필요한 파일
